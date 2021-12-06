@@ -2,7 +2,7 @@ import os
 import uuid
 import flask
 import urllib
-import tensorflow
+import tensorflow as tf
 from PIL import Image
 from tensorflow.keras.models import load_model
 from flask import Flask , render_template  , request , send_file
