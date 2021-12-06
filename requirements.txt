@@ -24,7 +24,6 @@ scikit-image==0.18.3
 scipy==1.7.2
 six==1.16.0
 tifffile==2021.11.2
-tensorflow.keras.models==2.7.0
-tensorflow.keras.preprocessing.image==2.7.0
+tensorflow==2.5.0
 virtualenv==20.10.0
 Werkzeug==2.0.2
